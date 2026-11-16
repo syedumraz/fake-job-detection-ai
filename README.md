@@ -13,4 +13,5 @@ Online recruitment scams pose serious financial and privacy risks to job seekers
 - **Model Transparency:** Interpretable feature weights showing *why* a posting was flagged as fraudulent.
 
 ## Related Publication
-- *Comprehensive Review of Detection of Fake Job Listing Using AI* (2026)
+- **S. Umraz, R. B.K.**, *"Comprehensive Review of Detection of Fake Job Listing Using AI,"* Journal of Scientific Research and Technology (ISSN: 2583-8660), Vol. 4, Issue 6, 2026. | **DOI:** `10.5281/zenodo.20584049`
+
