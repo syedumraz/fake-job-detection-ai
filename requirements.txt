@@ -1,0 +1,10 @@
+Flask
+Werkzeug
+scikit-learn
+numpy
+pandas
+openpyxl
+beautifulsoup4
+requests
+twilio
+python-dotenv
